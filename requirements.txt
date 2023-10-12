@@ -1,0 +1,8 @@
+streamlit==latest
+cv2==latest
+numpy==latest
+streamlit_webrtc==latest
+av==latest
+openai==latest
+PIL==latest
+pytesseract==latest

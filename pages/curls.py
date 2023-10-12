@@ -4,7 +4,6 @@ import numpy as np
 import PoseModule as pm
 import time
 from streamlit_webrtc import *
-import numpy as np
 import av
 
 
